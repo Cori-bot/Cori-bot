@@ -12,9 +12,9 @@ I'm learning html, css, java , js, python and more...
 # **Contact**
 There is multiple ways to contact me !
 
-<a href=""><img src="https://img.shields.io/static/v1?label=DISCORD&message=Coridor&color=7289da&style=for-the-badge"></a><br><br>
-<a href="https://x/Coridor_"><img src="https://img.shields.io/static/v1?label=TWITTER&message=Coridor_&color=00acee&style=for-the-badge"></a><br><br>
-<a href="mailto: coridor@gmail.com"><img src="https://img.shields.io/static/v1?label=mail&message=coridor@gmail.com&color=white&style=for-the-badge"></a><br><br>
+<a href="" target="_blank"><img src="https://img.shields.io/static/v1?label=DISCORD&message=Coridor&color=7289da&style=for-the-badge"></a><br><br>
+<a href="https://x/Coridor_" target="_blank"><img src="https://img.shields.io/static/v1?label=TWITTER&message=Coridor_&color=00acee&style=for-the-badge"></a><br><br>
+<a href="mailto: coridor@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=mail&message=coridor@gmail.com&color=white&style=for-the-badge"></a><br><br>
 
 # **Link of my repos**
 
