@@ -1,3 +1,9 @@
+<div align="center">
+    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="forthebadge">
+    <img src="https://forthebadge.com/images/badges/made-with-html.svg" alt="forthebadge">
+    <img src="https://forthebadge.com/images/badges/made-with-css.svg" alt="forthebadge">
+</div>
+
 # *ME*
 
 My name is Coridor. <br>
@@ -18,5 +24,13 @@ There is multiple ways to contact me !
 
 # *Link of my repos*
 
-![icons8-dossier-100](https://github.com/user-attachments/assets/9f1da08b-d6d4-497b-bab3-c4d92b6c9642)
-![icons8-dossier-ouvert-100](https://github.com/user-attachments/assets/f47a2f94-b7bc-4e6e-8308-28cda80a97bc)
+<table align="center">
+    <tr>
+        <td><a href="https://github.com/Cori-bot/Watchtrack"><img src="https://github.com/user-attachments/assets/c9740617-00e8-401e-ba45-7d33d62214f3" alt="Image Alt Text"></a></td>
+        <td>WATCHTRACK : Bot Discord for managing a list of films, series, manga and anime</td>
+    </tr>
+</table>
+
+
+
+
