@@ -30,7 +30,7 @@ There is multiple ways to contact me !
         <td>WATCHTRACK : Bot Discord for managing a list of films, series, manga and anime</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Cori-bot/site-template-discord-v1"><img src="https://github.com/user-attachments/assets/c9740617-00e8-401e-ba45-7d33d62214f3" alt="Image Alt Text"></a></td>
+        <td><a href="https://github.com/Cori-bot/site-discord-v1"><img src="https://github.com/user-attachments/assets/c9740617-00e8-401e-ba45-7d33d62214f3" alt="Image Alt Text"></a></td>
         <td>TEMPLATE : Example of website design inspired by Discord</td>
     </tr>
 </table>
