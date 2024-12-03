@@ -1,9 +1,3 @@
-<div align="center">
-    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="forthebadge">
-    <img src="https://forthebadge.com/images/badges/made-with-html.svg" alt="forthebadge">
-    <img src="https://forthebadge.com/images/badges/made-with-css.svg" alt="forthebadge">
-</div>
-
 # *MOI*
 
 Je m'appelle Coridor. <br>
@@ -38,3 +32,10 @@ Il y a plusieurs façons de me contacter !
         <td>SwitchMaster : Application pour changer de compte Riot Games automatiquement</td>
     </tr>
 </table>
+
+
+<div align="center">
+    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="forthebadge">
+    <img src="https://forthebadge.com/images/badges/made-with-html.svg" alt="forthebadge">
+    <img src="https://forthebadge.com/images/badges/made-with-css.svg" alt="forthebadge">
+</div>
