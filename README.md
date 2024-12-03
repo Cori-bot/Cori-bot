@@ -6,7 +6,7 @@ J'apprends actuellement le HTML, CSS, Java, JavaScript, Python et bien plus enco
 
 # *Liens de mes dépôts*
 
-<table align="center">
+<table>
     <tr>
         <td><a href="https://github.com/Cori-bot/Watchtrack"><img src="https://github.com/user-attachments/assets/c9740617-00e8-401e-ba45-7d33d62214f3" alt="Image Alt Text"></a></td>
         <td>WATCHTRACK : Bot Discord pour gérer une liste de films, séries, mangas et animés</td>
