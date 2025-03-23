@@ -13,4 +13,8 @@
         <td><a href="https://github.com/Cori-bot/SwitchMaster"><img src="https://github.com/user-attachments/assets/c9740617-00e8-401e-ba45-7d33d62214f3" alt="Image Alt Text"></a></td>
         <td>SwitchMaster : Application pour changer de compte Riot Games automatiquement</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/Cori-bot/Api-Rank-Valorant"><img src="https://github.com/user-attachments/assets/c9740617-00e8-401e-ba45-7d33d62214f3" alt="Image Alt Text"></a></td>
+        <td>Valorant Rank Checker : Site web pour obtenir son rank via un bot sur Twitch</td>
+    </tr>
 </table>
